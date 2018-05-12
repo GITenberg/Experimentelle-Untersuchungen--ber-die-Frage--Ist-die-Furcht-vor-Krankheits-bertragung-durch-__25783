@@ -1,0 +1,30 @@
+_repo: Experimentelle-Untersuchungen--ber-die-Frage--Ist-die-Furcht-vor-Krankheits-bertragung-durch-__25783
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Weiss, Carl
+    birthdate: 1887
+    gutenberg_agent_id: '31576'
+    url: http://www.gutenberg.org/2009/agents/31576
+description: ''
+gutenberg_bookshelf: Microbiology
+gutenberg_issued: '2008-06-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25783'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Microbiology'
+- !lcc 'QR'
+- !lcsh 'Thesis (Ph. D.)'
+title: "Experimentelle Untersuchungen über die Frage »Ist die Furcht vor Krankheitsübertragung\
+  \ durch das Telephon berechtigt«?\r\nInaugural-Dissertation zur Erlangung der Doktorwürde\
+  \ in der Medizin, Chirurgie und Geburtshülfe der Hohen Medizinischen Fakultät der\
+  \ Königlichen Universität Greifswald"
+url: http://www.gutenberg.org/ebooks/25783
