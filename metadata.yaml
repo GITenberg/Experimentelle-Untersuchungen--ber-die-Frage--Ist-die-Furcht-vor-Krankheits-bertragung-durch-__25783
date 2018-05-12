@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '31576'
     url: http://www.gutenberg.org/2009/agents/31576
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25783#Experimentelle-Untersuchungen--ber-die-Frage--Ist-die-Furcht-vor-Krankheits-bertragung-durch-_
 gutenberg_bookshelf: Microbiology
 gutenberg_issued: '2008-06-14'
 gutenberg_type: Text
